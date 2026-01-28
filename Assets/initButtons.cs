@@ -27,7 +27,7 @@ public class initButtons : MonoBehaviour
             buttons[i].transform.GetComponent<Button>().onClick.RemoveAllListeners(); // remove previous functions on this button
             if (training != null)
             {
-                //buttons[i].transform.GetComponent<Button>().onClick.AddListener(delegate { training.Response(response); });  // add response (name) as function for this button
+
             }
             if (keyTraining != null)
             {

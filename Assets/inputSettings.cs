@@ -24,9 +24,5 @@ public class inputSettings : MonoBehaviour
             buttons.SetActive(false);
             midi.SetActive(false);
         }
-        if (GameSettings.input == "keyboard")
-        {
-            buttons.SetActive(false);
-        }
     }
 }
