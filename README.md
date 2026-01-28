@@ -41,7 +41,5 @@ Known Bugs
     Click sound when sound ends.
 
 Screenshots
-Starting Screen	Menu View
 <img src="/Screenshots/start.jpg?raw=true" width="200">	<img src="/Screenshots/menu.jpg?raw=true" width="200">
-Training View	MIDI Menu View
 <img src="/Screenshots/training.png?raw=true" width="200">	<img src="/Screenshots/midi.jpg?raw=true" width="200">
